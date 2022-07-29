@@ -1,0 +1,5 @@
+outs:
+- md5: 1ce9ba31352e122acc1efeb8782015d6.dir
+  size: 52672916
+  nfiles: 1
+  path: stft
